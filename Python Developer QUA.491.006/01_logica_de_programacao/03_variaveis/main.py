@@ -26,8 +26,16 @@ print(numero_decimal)
 print(programador_verdade)
 print(programador_falso)
 
+# TIPO DE DADO DA VARIÁVEL
 print(type(texto))
 print(type(numero_inteiro))
 print(type(numero_decimal))
 print(type(programador_verdade))
 print(type(programador_falso))
+
+# CONTATENAR VARIAVEL
+print("Valor da Variavel: ", texto, " Tipo de Dado: ", type(texto))
+print("Valor da Variavel: ", numero_inteiro, " Tipo de Dado: ", type(numero_inteiro))
+print("Valor da Variavel: ", numero_decimal, " Tipo de Dado: ", type(numero_decimal))
+print("Valor da Variavel: ", programador_verdade, " Tipo de Dado: ", type(programador_verdade))
+print("Valor da Variavel: ", programador_falso, " Tipo de Dado: ", type(programador_falso))
